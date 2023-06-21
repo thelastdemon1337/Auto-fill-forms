@@ -1,1 +1,277 @@
-{"actions":[{"addon":{"condition":"","elementFinder":"","recheck":0,"recheckInterval":0,"recheckOption":"stop","value":"","valueExtractor":""},"elementFinder":"//*[@id=\"mG61Hd\"]/div[2]/div/div[2]/div[1]/div/div/div[2]/div/div[1]/div/div[1]/input","elementType":"","enable":true,"initWait":0,"name":"","repeat":0,"repeatInterval":0,"value":"Your Name"},{"addon":{"condition":"","elementFinder":"","recheck":0,"recheckInterval":0,"recheckOption":"stop","value":"","valueExtractor":""},"elementFinder":"//*[@id=\"mG61Hd\"]/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[1]/input","elementType":"","enable":true,"focus":true,"initWait":0,"name":"","repeat":0,"repeatInterval":0,"value":"Your roll number"},{"addon":{"condition":"","elementFinder":"","recheck":0,"recheckInterval":0,"recheckOption":"stop","value":"","valueExtractor":""},"elementFinder":"//*[@id=\"mG61Hd\"]/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div[1]/div/div[1]/input","elementType":"","enable":true,"focus":true,"initWait":0,"name":"","repeat":0,"repeatInterval":0,"value":"Your mail"},{"addon":{"condition":"","elementFinder":"","recheck":0,"recheckInterval":0,"recheckOption":"stop","value":"","valueExtractor":""},"elementFinder":"//*[@id=\"mG61Hd\"]/div[2]/div/div[2]/div[4]/div/div/div[2]/div/div[1]/div/div[1]/input","elementType":"","enable":true,"focus":true,"initWait":0,"name":"","repeat":0,"repeatInterval":0,"value":"Your number"},{"addon":{"condition":"","elementFinder":"","recheck":0,"recheckInterval":0,"recheckOption":"stop","value":"","valueExtractor":""},"elementFinder":"//*[@id=\"mG61Hd\"]/div[2]/div/div[2]/div[5]/div/div/div[2]/div/div[1]/div/div[1]/input","elementType":"","enable":true,"focus":true,"initWait":0,"name":"","repeat":0,"repeatInterval":0,"value":"Year and section"},{"addon":{"condition":"","elementFinder":"","recheck":0,"recheckInterval":0,"recheckOption":"stop","value":"","valueExtractor":""},"elementFinder":"//*[@id=\"i37\"]/div[3]/div","elementType":"","enable":true,"focus":true,"initWait":0,"name":"","repeat":0,"repeatInterval":0,"value":""},{"addon":{"condition":"","elementFinder":"","recheck":0,"recheckInterval":0,"recheckOption":"stop","value":"","valueExtractor":""},"elementFinder":"//*[@id=\"i56\"]/div[3]/div","elementType":"","enable":true,"focus":true,"initWait":0,"name":"","repeat":0,"repeatInterval":0,"value":""},{"addon":{"condition":"","elementFinder":"","recheck":0,"recheckInterval":0,"recheckOption":"stop","value":"","valueExtractor":""},"elementFinder":"//*[@id=\"i75\"]/div[3]/div","elementType":"","enable":true,"focus":true,"initWait":0,"name":"","repeat":0,"repeatInterval":0,"value":""},{"addon":{"condition":"","elementFinder":"","recheck":0,"recheckInterval":0,"recheckOption":"stop","value":"","valueExtractor":""},"elementFinder":"//*[@id=\"i94\"]/div[3]/div","elementType":"","enable":true,"focus":true,"initWait":0,"name":"","repeat":0,"repeatInterval":0,"value":""},{"addon":{"condition":"","elementFinder":"","recheck":0,"recheckInterval":0,"recheckOption":"stop","value":"","valueExtractor":""},"elementFinder":"//*[@id=\"i113\"]/div[3]/div","elementType":"","enable":true,"focus":true,"initWait":0,"name":"","repeat":0,"repeatInterval":0,"value":""},{"addon":{"condition":"","elementFinder":"","recheck":0,"recheckInterval":0,"recheckOption":"stop","value":"","valueExtractor":""},"elementFinder":"//*[@id=\"i132\"]/div[3]/div","elementType":"","enable":true,"focus":true,"initWait":0,"name":"","repeat":0,"repeatInterval":0,"value":""},{"addon":{"condition":"","elementFinder":"","recheck":0,"recheckInterval":0,"recheckOption":"stop","value":"","valueExtractor":""},"elementFinder":"//*[@id=\"i151\"]/div[3]/div","elementType":"","enable":true,"focus":true,"initWait":0,"name":"","repeat":0,"repeatInterval":0,"value":""},{"addon":{"condition":"","elementFinder":"","recheck":0,"recheckInterval":0,"recheckOption":"stop","value":"","valueExtractor":""},"elementFinder":"//*[@id=\"i170\"]/div[3]/div","elementType":"","enable":true,"focus":true,"initWait":0,"name":"","repeat":0,"repeatInterval":0,"value":""}],"batch":{"refresh":false,"repeat":0,"repeatInterval":0},"enable":true,"hotkey":"Ctrl + Shift + A","initWait":0,"loadType":"document","name":"","spreadsheetId":"","startTime":"","startType":"auto","url":"https://docs.google.com/forms/d/e/1FAIpQLSc13iceoh09b3LuqgReG_Vv8lNFqhYkEOYOk05lPmS8k67Ahg/viewform"}
+{
+    "actions": [
+        {
+            "addon": {
+                "condition": "",
+                "elementFinder": "",
+                "recheck": 0,
+                "recheckInterval": 0,
+                "recheckOption": "stop",
+                "value": "",
+                "valueExtractor": ""
+            },
+            "elementFinder": "//*[@id=\"mG61Hd\"]/div[2]/div/div[2]/div[1]/div/div/div[2]/div/div[1]/div/div[1]/input",
+            "elementType": "",
+            "enable": true,
+            "initWait": 0,
+            "name": "",
+            "repeat": 0,
+            "repeatInterval": 0,
+            "value": "Your Name"
+        },
+        {
+            "addon": {
+                "condition": "",
+                "elementFinder": "",
+                "recheck": 0,
+                "recheckInterval": 0,
+                "recheckOption": "stop",
+                "value": "",
+                "valueExtractor": ""
+            },
+            "elementFinder": "//*[@id=\"mG61Hd\"]/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[1]/input",
+            "elementType": "",
+            "enable": true,
+            "focus": true,
+            "initWait": 0,
+            "name": "",
+            "repeat": 0,
+            "repeatInterval": 0,
+            "value": "Your roll number"
+        },
+        {
+            "addon": {
+                "condition": "",
+                "elementFinder": "",
+                "recheck": 0,
+                "recheckInterval": 0,
+                "recheckOption": "stop",
+                "value": "",
+                "valueExtractor": ""
+            },
+            "elementFinder": "//*[@id=\"mG61Hd\"]/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div[1]/div/div[1]/input",
+            "elementType": "",
+            "enable": true,
+            "focus": true,
+            "initWait": 0,
+            "name": "",
+            "repeat": 0,
+            "repeatInterval": 0,
+            "value": "Your mail"
+        },
+        {
+            "addon": {
+                "condition": "",
+                "elementFinder": "",
+                "recheck": 0,
+                "recheckInterval": 0,
+                "recheckOption": "stop",
+                "value": "",
+                "valueExtractor": ""
+            },
+            "elementFinder": "//*[@id=\"mG61Hd\"]/div[2]/div/div[2]/div[4]/div/div/div[2]/div/div[1]/div/div[1]/input",
+            "elementType": "",
+            "enable": true,
+            "focus": true,
+            "initWait": 0,
+            "name": "",
+            "repeat": 0,
+            "repeatInterval": 0,
+            "value": "Your number"
+        },
+        {
+            "addon": {
+                "condition": "",
+                "elementFinder": "",
+                "recheck": 0,
+                "recheckInterval": 0,
+                "recheckOption": "stop",
+                "value": "",
+                "valueExtractor": ""
+            },
+            "elementFinder": "//*[@id=\"mG61Hd\"]/div[2]/div/div[2]/div[5]/div/div/div[2]/div/div[1]/div/div[1]/input",
+            "elementType": "",
+            "enable": true,
+            "focus": true,
+            "initWait": 0,
+            "name": "",
+            "repeat": 0,
+            "repeatInterval": 0,
+            "value": "Year and section"
+        },
+        {
+            "addon": {
+                "condition": "",
+                "elementFinder": "",
+                "recheck": 0,
+                "recheckInterval": 0,
+                "recheckOption": "stop",
+                "value": "",
+                "valueExtractor": ""
+            },
+            "elementFinder": "//*[@id=\"i37\"]/div[3]/div",
+            "elementType": "",
+            "enable": true,
+            "focus": true,
+            "initWait": 0,
+            "name": "",
+            "repeat": 0,
+            "repeatInterval": 0,
+            "value": ""
+        },
+        {
+            "addon": {
+                "condition": "",
+                "elementFinder": "",
+                "recheck": 0,
+                "recheckInterval": 0,
+                "recheckOption": "stop",
+                "value": "",
+                "valueExtractor": ""
+            },
+            "elementFinder": "//*[@id=\"i56\"]/div[3]/div",
+            "elementType": "",
+            "enable": true,
+            "focus": true,
+            "initWait": 0,
+            "name": "",
+            "repeat": 0,
+            "repeatInterval": 0,
+            "value": ""
+        },
+        {
+            "addon": {
+                "condition": "",
+                "elementFinder": "",
+                "recheck": 0,
+                "recheckInterval": 0,
+                "recheckOption": "stop",
+                "value": "",
+                "valueExtractor": ""
+            },
+            "elementFinder": "//*[@id=\"i75\"]/div[3]/div",
+            "elementType": "",
+            "enable": true,
+            "focus": true,
+            "initWait": 0,
+            "name": "",
+            "repeat": 0,
+            "repeatInterval": 0,
+            "value": ""
+        },
+        {
+            "addon": {
+                "condition": "",
+                "elementFinder": "",
+                "recheck": 0,
+                "recheckInterval": 0,
+                "recheckOption": "stop",
+                "value": "",
+                "valueExtractor": ""
+            },
+            "elementFinder": "//*[@id=\"i94\"]/div[3]/div",
+            "elementType": "",
+            "enable": true,
+            "focus": true,
+            "initWait": 0,
+            "name": "",
+            "repeat": 0,
+            "repeatInterval": 0,
+            "value": ""
+        },
+        {
+            "addon": {
+                "condition": "",
+                "elementFinder": "",
+                "recheck": 0,
+                "recheckInterval": 0,
+                "recheckOption": "stop",
+                "value": "",
+                "valueExtractor": ""
+            },
+            "elementFinder": "//*[@id=\"i113\"]/div[3]/div",
+            "elementType": "",
+            "enable": true,
+            "focus": true,
+            "initWait": 0,
+            "name": "",
+            "repeat": 0,
+            "repeatInterval": 0,
+            "value": ""
+        },
+        {
+            "addon": {
+                "condition": "",
+                "elementFinder": "",
+                "recheck": 0,
+                "recheckInterval": 0,
+                "recheckOption": "stop",
+                "value": "",
+                "valueExtractor": ""
+            },
+            "elementFinder": "//*[@id=\"i132\"]/div[3]/div",
+            "elementType": "",
+            "enable": true,
+            "focus": true,
+            "initWait": 0,
+            "name": "",
+            "repeat": 0,
+            "repeatInterval": 0,
+            "value": ""
+        },
+        {
+            "addon": {
+                "condition": "",
+                "elementFinder": "",
+                "recheck": 0,
+                "recheckInterval": 0,
+                "recheckOption": "stop",
+                "value": "",
+                "valueExtractor": ""
+            },
+            "elementFinder": "//*[@id=\"i151\"]/div[3]/div",
+            "elementType": "",
+            "enable": true,
+            "focus": true,
+            "initWait": 0,
+            "name": "",
+            "repeat": 0,
+            "repeatInterval": 0,
+            "value": ""
+        },
+        {
+            "addon": {
+                "condition": "",
+                "elementFinder": "",
+                "recheck": 0,
+                "recheckInterval": 0,
+                "recheckOption": "stop",
+                "value": "",
+                "valueExtractor": ""
+            },
+            "elementFinder": "//*[@id=\"i170\"]/div[3]/div",
+            "elementType": "",
+            "enable": true,
+            "focus": true,
+            "initWait": 0,
+            "name": "",
+            "repeat": 0,
+            "repeatInterval": 0,
+            "value": ""
+        }
+    ],
+    "batch": {
+        "refresh": false,
+        "repeat": 0,
+        "repeatInterval": 0
+    },
+    "enable": true,
+    "hotkey": "Ctrl + Shift + A",
+    "initWait": 0,
+    "loadType": "document",
+    "name": "",
+    "spreadsheetId": "",
+    "startTime": "",
+    "startType": "auto",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSc13iceoh09b3LuqgReG_Vv8lNFqhYkEOYOk05lPmS8k67Ahg/viewform"
+}

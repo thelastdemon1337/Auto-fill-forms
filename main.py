@@ -20,11 +20,19 @@ options.add_argument("--remote-debugging-port=9222")
 # Create an instance of Chrome WebDriver
 driver = webdriver.Chrome(options=options)
 
-links = [
-    "https://forms.gle/LaFvmK2nSgy7jE4a6",
-     "https://forms.gle/9HZ7EGjpCHw88rQy7",
-    "https://forms.gle/oSEXb4x6eQSFwNiz9",
-]
+raw_links = []
+
+def parseLinks():
+    global raw_links
+    with open('links.txt', 'r') as file:
+        # Read each line in the file
+        for line in file:
+            # Remove leading/trailing whitespace and add the link to the list
+            link = line.strip()
+            raw_links.append(link)
+
+    # Print the list of links
+    # print(raw_links)
 
 tabCounter = 1
 
@@ -32,7 +40,7 @@ def fillForm(shortened_form_link):
     global tabCounter
     driver.execute_script("window.open('{}', '_blank');".format(shortened_form_link))
     driver.switch_to.window(driver.window_handles[tabCounter])
-    if links[0] == shortened_form_link:
+    if raw_links[0] == shortened_form_link:
          time.sleep(2)
     else:
         time.sleep(1)
@@ -73,10 +81,11 @@ def setAutoFiller():
     
 
 #driver code
+parseLinks()
 setAutoFiller()
 time.sleep(1)
 
-for link in links:
+for link in raw_links:
        fillForm(link)
 
 
